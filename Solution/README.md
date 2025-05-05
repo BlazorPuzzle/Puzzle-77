@@ -29,3 +29,12 @@ The return type of an async method must be void, Task, Task, a task-like type, I
 ```
 
 WTF?
+
+## The Solution
+
+The rule that applies here is that you can't name a page or component the same as a class in the .NET Core Framework. 
+
+Therefore, the solution is to rename Task.razor to something else. We renamed it to Tasks.razor and also changed the @page directive at the top.
+
+BOOM!
+
