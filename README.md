@@ -4,7 +4,7 @@ Carl and Jeff try to solve a problem with a simple Blazor app that's throwing so
 
 This puzzle comes from alert viewer **Justin Lamping**, who will receive a Blazor Puzzle mug for sending it in!
 
-YouTube Video: https://youtu.be/
+YouTube Video: https://youtu.be/e7XKLlD_v3E
 
 Blazor Puzzle Home Page: https://blazorpuzzle.com
 
